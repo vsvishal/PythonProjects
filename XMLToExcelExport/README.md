@@ -1,4 +1,4 @@
-# Export data from XML to Excel
+# XML parsing desktop app (Export data from XML to Excel)
 
 User need to enter the XML and Excel file path and also select the dropdown option in the app.
 Then this app decode the more than 350 MB XML file and parse through all the elements, attributes provided in the program.
